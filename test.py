@@ -1,20 +1,20 @@
-# a = int (input ("enter the number :"))
-# b= int (input ("enter the another number :"))
+a = int (input ("enter the number :"))
+b= int (input ("enter the another number :"))
 
 
-# def add(a,b):
-#     print (a+b)
-# def subtract(a,b):
-#     print (a-b)
-# def divide(a,b):
-#     print (a/b)
-# def multiply(a,b):
-#     print (a*b)
+def add(a,b):
+    print (a+b)
+def subtract(a,b):
+    print (a-b)
+def divide(a,b):
+    print (a/b)
+def multiply(a,b):
+    print (a*b)
 
-# add(a,b)
-# subtract(a,b)
-# divide(a,b)
-# multiply(a,b)
+add(a,b)
+subtract(a,b)
+divide(a,b)
+multiply(a,b)
 
 
 
