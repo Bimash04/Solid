@@ -1,0 +1,16 @@
+SOLID Principles in python.
+
+Single Responsibility principles (SRP):A class have a responsibility over a single part of the functionality provided by the software and the entire  responsibility is encapsulated by the class.
+NOTE: A single class has a single works.
+
+Open-closed Principles (ocp):
+Inheritance of the exists class and perform a certain task.
+for instance:
+class hello:
+	def saidHi(self,name):
+		return name
+
+class Hi
+ 
+
+ 
